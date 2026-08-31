@@ -67,3 +67,6 @@ ehthumbs.db
 
 # ---- macOS --------------------------------------------------
 .DS_Store
+
+# ---- AI assistant context (local only, sole developer) ------
+CLAUDE.md
